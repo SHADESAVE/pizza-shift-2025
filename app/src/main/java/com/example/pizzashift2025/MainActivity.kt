@@ -29,11 +29,3 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    PizzaShift2025Theme {
-        Greeting("Android")
-    }
-}
